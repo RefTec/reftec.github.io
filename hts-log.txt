@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Aug 2025 13:49:10 at http://localhost/reftec.co.za +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/reftec.co.za -O1 "C:\My Web Sites\Ref Tec" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:50:27	Error: 	"Not Found" (404) at link localhost/reftec.co.za/wp-content/themes/hello-biz/assets/images/starter-content/starter-content-believe-bg.png (from localhost/reftec.co.za/)
+13:50:27	Error: 	"Forbidden" (403) at link localhost/reftec.co.za/'http://localhost/reftec.co.za/wp-content/themes/hello-biz/assets/images/starter-content/starter-content-bg-shapes.png' (from localhost/reftec.co.za/)
+13:50:27	Error: 	"Not Found" (404) at link localhost/reftec.co.za/wp-content/themes/hello-biz/assets/images/starter-content/starter-content-icon-social-media.svg (from localhost/reftec.co.za/)
+13:50:27	Error: 	"Not Found" (404) at link localhost/reftec.co.za/wp-content/themes/hello-biz/assets/images/starter-content/starter-content-icon-seo.svg (from localhost/reftec.co.za/)
+13:50:27	Error: 	"Not Found" (404) at link localhost/reftec.co.za/wp-content/themes/hello-biz/assets/images/starter-content/starter-content-icon-ppc.svg (from localhost/reftec.co.za/)
+13:50:27	Warning: 	Moved Permanently for localhost/reftec.co.za/?p=126
+13:50:27	Warning: 	File has moved from localhost/reftec.co.za/?p=126 to http://localhost/reftec.co.za/index.php/our-services/
+13:50:27	Warning: 	Moved Permanently for localhost/reftec.co.za/?p=121
+13:50:27	Warning: 	File has moved from localhost/reftec.co.za/?p=121 to http://localhost/reftec.co.za/index.php/about-us/
+13:50:29	Warning: 	Moved Permanently for localhost/reftec.co.za/?p=124
+13:50:29	Warning: 	File has moved from localhost/reftec.co.za/?p=124 to http://localhost/reftec.co.za/index.php/contact-us/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 19 seconds : 48 links scanned, 39 files written (2049714 bytes overall) [2526899 bytes received at 31986 bytes/sec], 2.5 requests per connection
+(5 errors, 6 warnings, 0 messages)
